@@ -449,8 +449,11 @@ N * K = 13 × 7 = 91 и PQ = 721
 1. [В теории чисел]( https://github.com/Misha0966/New-project/blob/main/examples/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D1%87%D0%B8%D1%81%D0%B5%D0%BB.md )
 2. [В информатике](https://github.com/Misha0966/New-project/blob/main/examples/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%A7%D0%A1%20%D0%B2%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B5%20(%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0%20P%20vs%20NP).md)
 3. [В биологии](https://github.com/Misha0966/New-project/blob/main/examples/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F(%D0%B3%D0%B5%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0).md)
+
 4.1 [В физике( закон сохранения энергии)](https://github.com/Misha0966/New-project/blob/main/examples/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5(%20%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D0%B8).md)
+
 4.2 [В физике(специальной терии относительности](https://github.com/Misha0966/New-project/blob/main/examples/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B0%20%D0%A1%D0%A7%D0%A1%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8%20%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md)
+
 4.3 [В физике( квантовой физики)](https://github.com/Misha0966/New-project/blob/main/examples/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8.md)
 5. [В химии](https://github.com/Misha0966/New-project/blob/main/examples/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%A1%D0%A7%D0%A1%20%D0%B2%20%D1%85%D0%B8%D0%BC%D0%B8%D0%B8%20(%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2%D0%B0).md)
 6. [В экономике](https://github.com/Misha0966/New-project/blob/main/examples/%D0%92%20%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B5.md)
