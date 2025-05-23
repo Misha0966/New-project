@@ -462,8 +462,11 @@ N * K = 13 × 7 = 91 и PQ = 721
 
 7. [В медицине](https://github.com/Misha0966/New-project/blob/main/examples/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B5.md)
 
-8. [В астрономии](
+8. [В астрономии](https://github.com/Misha0966/New-project/blob/main/examples/%D0%92%20%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%B8.md)
 
+9. [В музыке](https://github.com/Misha0966/New-project/blob/main/examples/%D0%92%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B5.md)
+
+10. [В литературе](
 
 ## 11. Лицензия
 
