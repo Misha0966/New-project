@@ -413,7 +413,7 @@ N * K = 899766 × 4 = 3599064
   🔄 Совпадает только конец: 19926
   ❌ Без совпадений: 0
 
-[Скачать данные]( https://drive.google.com/file/d/1iUbvFRWBj7gaj8ZF92mhGGR0ccjqNb1o/view?usp=sharing )
+[Скачать данные]([https://drive.google.com/file/d/1iUbvFRWBj7gaj8ZF92mhGGR0ccjqNb1o/view?usp=sharing])
 
 ## 9. Примеры по каждому правилу.
 
