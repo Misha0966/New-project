@@ -1,3 +1,4 @@
+/* Основные стили */
 body {
     font-family: Arial, sans-serif;
     margin: 40px auto;
@@ -21,4 +22,16 @@ pre {
     background: #eee;
     padding: 10px;
     border-radius: 5px;
+}
+
+/* Стили для ссылки на GitHub репозиторий */
+.repo-link {
+    font-size: 24px; /* Увеличиваем размер шрифта */
+    color: #0077cc; /* Цвет ссылки (синий) */
+    text-decoration: none; /* Убираем подчёркивание */
+}
+
+/* При наведении курсора */
+.repo-link:hover {
+    text-decoration: underline; /* Добавляем подчёркивание при наведении */
 }
