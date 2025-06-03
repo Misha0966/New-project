@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
-Sitemap: https://misha0966.github.io/New-project/sitemap.xml 
+Allow: /
+Sitemap: https://misha0966.github.io/New-project/sitemap.xml
