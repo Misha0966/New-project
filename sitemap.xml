@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc>https://misha0966.github.io/New-project/</loc> 
-      <lastmod>2025-05-19</lastmod>
+      <lastmod>2025-04-05</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://misha0966.github.io/New-project/examples/theory_numbers.html</loc> 
+      <lastmod>2025-04-05</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
