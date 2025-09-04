@@ -530,6 +530,10 @@ N * K = 13 × 7 = 91 и PQ = 721
 Телеграмм-канал:
  [@structuralnumericalsymmetry](https://t.me/structuralnumericalsymmetry)
 
+Ссылка на группу в ВК:
+
+[https://vk.com/structuralnumericalsymmetry](https://vk.com/structuralnumericalsymmetry)
+
 Данный проект распространяется под лицензией All Rights Reserved. 
 
 А так же защищён усиленной квалицированой электронной подписью!
