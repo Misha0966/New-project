@@ -525,7 +525,7 @@ N * K = 13 × 7 = 91 и PQ = 721
 
 Автор: ([Михаил])([https://github.com/Misha0966]) почта для связи: misha0966.33@gmail.com
 
-Сайт: https://structuralnumericalsymmetry.ruП
+Сайт: https://structuralnumericalsymmetry.ru
 
 Телеграмм-канал:
  [@structuralnumericalsymmetry](https://t.me/structuralnumericalsymmetry)
