@@ -31,7 +31,7 @@
 
 Любое копирование или/и распространение без прямого согласия автора, строго запрещено!
 
-Помимо всего прочего, данный проект защищён электронной [подписью!](https://github.com/Misha0966/New-project/blob/main/SChS-_Strukturnaya_chislo.pdf.sig)
+Помимо всего прочего, данный проект защищён электронной [подписью!](https://github.com/Misha0966/New-project/blob/main/%D0%A1%D0%A7%D0%A1-_%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-.pdf.sig)
 
 ВНИМАНИЕ: Уважаемые "кем-то там" плагиатчики и копипастеры, я хочу предупредить об уголовной ответственности, а именно статья 146 УК РФ! 
 
@@ -572,6 +572,6 @@ N * K = 13 × 7 = 91 и PQ = 721
 
 Данный проект распространяется под лицензией [All Rights Reserved.](https://github.com/Misha0966/New-project/blob/main/LICENSE) 
 
-А так же защищён электронной [подписью!]( https://github.com/Misha0966/New-project/blob/main/SChS-_Strukturnaya_chislo.pdf.sig )
+А так же защищён электронной [подписью!](https://github.com/Misha0966/New-project/blob/main/%D0%A1%D0%A7%D0%A1-_%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D1%87%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D0%BC%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-.pdf.sig)
 
 Любое копирование или/и распространение без прямого согласия автора, сторого запрещенно!
