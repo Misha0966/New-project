@@ -1,5 +1,5 @@
 # SNS-CA: Arithmetic Cellular Automaton based on Structural Numerical Symmetry
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21864927.svg)](https://doi.org/10.5281/zenodo.21864927)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Julia](https://img.shields.io/badge/Julia-1.6+-238ed1.svg?logo=julia)](https://julialang.org/)
 
@@ -111,8 +111,8 @@ When using this code in research, it is recommended to cite:
   author = {Yushchenko, Mikhail Yuryevich},
   title = {SNS-CA: Arithmetic Cellular Automaton based on Structural Numerical Symmetry},
   year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/Misha0966/New-project},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.21864927},
+  url = {https://doi.org/10.5281/zenodo.21864927},
   license = {CC BY 4.0}
 }
-```
