@@ -8,7 +8,7 @@
 **AUTHOR:**
 **Mikhail Yuryevich Yushchenko**
 
-Document Protection: This project and its associated documentation are signed with an [Enhanced Qualified Electronic Signature.](https://github.com/Misha0966/New-project/blob/main/Technologies/Structural%20Numerical%20Symmetry%20Cellular%20Automaton%20(%20SNS-CA%20).pdf.sig)) 
+**Document Protection**: This project and its associated documentation are signed with an [Enhanced Qualified Electronic Signature.](https://github.com/Misha0966/New-project/blob/main/Technologies/Structural%20Numerical%20Symmetry%20Cellular%20Automaton%20(%20SNS-CA%20).pdf.sig)) 
 , ensuring the integrity, authenticity, and non-repudiation of the author's work.
 
 **Date:** 09.08.2026
