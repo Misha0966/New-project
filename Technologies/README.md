@@ -1,9 +1,9 @@
 # SNS-CA: Arithmetic Cellular Automaton based on Structural Numerical Symmetry
 [![Internet Archive](https://img.shields.io/badge/Internet_Archive-Archived_Version-blue.svg)](https://archive.org/details/structural-numerical-symmetry-cellular-automaton-sns-ca)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21864927.svg)](https://doi.org/10.5281/zenodo.21864927)
+[![HAL Archive](https://img.shields.io/badge/HAL-Preprint-00b0f0.svg)](https://hal.science/hal-05715465)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Julia](https://img.shields.io/badge/Julia-1.6+-238ed1.svg?logo=julia)](https://julialang.org/)
-[![HAL Archive](https://img.shields.io/badge/HAL-Preprint-00b0f0.svg)](https://hal.science/hal-05715465)
 
 **Structural Numerical Symmetry Cellular Automaton (SNS-CA)** is a type of dynamical system based on the internal arithmetic properties of numbers, rather than spatial neighbor interactions.
 
