@@ -121,13 +121,15 @@ test_edge_cases()
 При использовании кода в исследованиях рекомендуется ссылаться на:
 
 ```bibtex
-@misc{yushchenko2026sns,
-  author = {Yushchenko, Mikhail Yuryevich},
-  title = {SNS-CA: Arithmetic Cellular Automaton based on Structural Numerical Symmetry},
-  year = {2026},
-  publisher = {Zenodo},
-  doi = {10.5281/zenodo.21864927},
-  url = {https://doi.org/10.5281/zenodo.21864927},
-  license = {CC BY 4.0}
+@misc{yushchenko_2026_21864928,
+  author       = {Yushchenko, Mikhail Yuryevich},
+  title        = {Structural Numerical Symmetry Cellular Automaton
+                   (SNS-CA)
+                  },
+  month        = aug,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21864928},
+  url          = {https://doi.org/10.5281/zenodo.21864928},
 }
 ```
