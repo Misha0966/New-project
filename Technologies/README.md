@@ -3,6 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21864927.svg)](https://doi.org/10.5281/zenodo.21864927)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Julia](https://img.shields.io/badge/Julia-1.6+-238ed1.svg?logo=julia)](https://julialang.org/)
+[![HAL Archive](https://img.shields.io/badge/HAL-Preprint-00b0f0.svg)](https://hal.science/hal-05715465)
 
 **Structural Numerical Symmetry Cellular Automaton (SNS-CA)** is a type of dynamical system based on the internal arithmetic properties of numbers, rather than spatial neighbor interactions.
 
@@ -120,6 +121,23 @@ When using this code in research, it is recommended to cite:
   url          = {https://doi.org/10.5281/zenodo.21864928},
 }
 ```
+
+and:
+
+```bibtex
+
+@misc{yushchenko:hal-05715465,
+  TITLE = {{Structural Numerical Symmetry Cellular Automaton (SNS-CA)}},
+  AUTHOR = {Yushchenko, Mikhail Yuryevich},
+  URL = {https://hal.science/hal-05715465},
+  NOTE = {Traditional cellular automata (CA) operate under the von Neumann-Ulam paradigm, where the evolution of a cell's state is strictly dictated by spatial interactions with its neighbors. This spatial constraint limits the exploration of dynamical systems driven purely by internal structural properties. In this work, we introduce the Structural Numerical Symmetry Cellular Automaton (SNS-CA), a novel class of arithmetic cellular automata. In the proposed SNS-CA framework, cell evolution is decoupled from spatial topology and is instead governed by the internal arithmetic symmetry of the cell's numerical state. The transformation pipeline consists of three deterministic steps: (1) partitioning the integer state N into m structural components, (2) scaling each component by a multiplier k, and (3) evaluating the structural congruence of the transformed sequence against the true product N$\times$k via prefix and suffix matching. This mechanism yields a five-state classification taxonomy (Full, Boundary, End, Start, and No match), replacing the classical binary alive/dead paradigm. Experimental simulations demonstrate rapid structural decay alongside the emergence of stable arithmetic invariants, depending on the (m, k) parameter space. SNS-CA establishes a new direction in digital dynamics, shifting the analytical focus from spatial interaction to internal number-theoretic symmetry, with potential applications in unconventional computing, cryptographic primitives, and the study of complex discrete systems.},
+  PUBLISHER = {{Zenodo}},
+  YEAR = {2026},
+  DOI = {10.5281/zenodo.21864927},
+  KEYWORDS = {Post-Spatial Cellular Automata ; Unconventional Computing ; Arithmetic Dynamics ; Nonlinear Dynamics ; Emergence ; Digital Dynamics ; Number Theory ; Complex Systems ; Revolutionary Cellular Automata ; Paradigm Shift in Cellular Automata},
+  HAL_ID = {hal-05715465},
+  HAL_VERSION = {v1},
+}```
 
 ## 10.ARCHIVAL & PRESERVATION
 
