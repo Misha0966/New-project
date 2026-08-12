@@ -140,6 +140,19 @@ and:
   HAL_VERSION = {v1},
 }```
 
+or:
+
+```bibtex
+
+@article{Yushchenko2026,
+author = "Mikhail Yuryevich Yushchenko",
+title = "{Structural Numerical Symmetry Cellular Automaton ( SNS-CA )}",
+year = "2026",
+month = "8",
+url = "https://figshare.com/articles/preprint/Structural_Numerical_Symmetry_Cellular_Automaton_SNS-CA_/33235563",
+doi = "10.6084/m9.figshare.33235563.v1"
+}```
+
 ## 10.ARCHIVAL & PRESERVATION
 
 To ensure long-term preservation and independent access, a complete snapshot of this project (including source code, documentation, and outputs) has been permanently archived:
