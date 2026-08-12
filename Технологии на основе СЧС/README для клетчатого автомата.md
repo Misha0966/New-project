@@ -13,7 +13,7 @@
 
 **Дата:** 09.08.2026  
 **Защита:** Работа защищена усиленной электронной подписью (УЭЦП)  
-**Исходный код:** [https://github.com/Misha0966/New-project/blob/main/Technologies/SOURCE CODE( sns_ca).jl](https://github.com/Misha0966/New-project/blob/main/Technologies/SOURCE%20CODE(%20sns_ca).jl)
+**Исходный код:** [https://github.com/Misha0966/New-project/blob/main/Technologies/SOURCE CODE( sns_ca).jl](https://github.com/Misha0966/New-project/blob/main/Technologies/SOURCE%20CODE%20(%20sns_ca%20).jl)
 
 ---
 
