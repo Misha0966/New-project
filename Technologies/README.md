@@ -138,7 +138,8 @@ and:
   KEYWORDS = {Post-Spatial Cellular Automata ; Unconventional Computing ; Arithmetic Dynamics ; Nonlinear Dynamics ; Emergence ; Digital Dynamics ; Number Theory ; Complex Systems ; Revolutionary Cellular Automata ; Paradigm Shift in Cellular Automata},
   HAL_ID = {hal-05715465},
   HAL_VERSION = {v1},
-}```
+}
+```
 
 or:
 
@@ -151,7 +152,8 @@ year = "2026",
 month = "8",
 url = "https://figshare.com/articles/preprint/Structural_Numerical_Symmetry_Cellular_Automaton_SNS-CA_/33235563",
 doi = "10.6084/m9.figshare.33235563.v1"
-}```
+}
+```
 
 ## 10.ARCHIVAL & PRESERVATION
 
