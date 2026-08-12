@@ -3,6 +3,7 @@
 [![Internet Archive](https://img.shields.io/badge/Internet_Archive-Archived_Version-blue.svg)](https://archive.org/details/structural-numerical-symmetry-cellular-automaton-sns-ca)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21864927.svg)](https://doi.org/10.5281/zenodo.21864927)
 [![HAL Archive](https://img.shields.io/badge/HAL-Preprint-00b0f0.svg)](https://hal.science/hal-05715465)
+[![Figshare DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.33235563-FF6600?logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.33235563)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Julia](https://img.shields.io/badge/Julia-1.6+-238ed1.svg?logo=julia)](https://julialang.org/)
 
@@ -110,6 +111,7 @@ test_edge_cases()
 Данная работа полностью архивирована и доступна в следующих репозиториях:
 
 - **Zenodo** (с DOI для научного цитирования): [https://zenodo.org/](https://zenodo.org/records/21864928)
+- **Figshare** (с DOI для научного цитирования): [[https://zenodo.org/](https://doi.org/10.6084/m9.figshare.33235563))
 - **Web Archive** (постоянный архив): [https://web.archive.org/](https://archive.org/details/structural-numerical-symmetry-cellular-automaton-sns-ca)
 - **GitHub** (исходный код): [https://github.com/Misha0966/New-project](https://github.com/Misha0966/New-project/blob/main/Technologies/SOURCE%20CODE%20(%20sns_ca%20).jl)
 
@@ -148,5 +150,18 @@ test_edge_cases()
   KEYWORDS = {Post-Spatial Cellular Automata ; Unconventional Computing ; Arithmetic Dynamics ; Nonlinear Dynamics ; Emergence ; Digital Dynamics ; Number Theory ; Complex Systems ; Revolutionary Cellular Automata ; Paradigm Shift in Cellular Automata},
   HAL_ID = {hal-05715465},
   HAL_VERSION = {v1},
+}
+```
+Или:
+
+```bibtex
+
+@article{Yushchenko2026,
+author = "Mikhail Yuryevich Yushchenko",
+title = "{Structural Numerical Symmetry Cellular Automaton ( SNS-CA )}",
+year = "2026",
+month = "8",
+url = "https://figshare.com/articles/preprint/Structural_Numerical_Symmetry_Cellular_Automaton_SNS-CA_/33235563",
+doi = "10.6084/m9.figshare.33235563.v1"
 }
 ```
