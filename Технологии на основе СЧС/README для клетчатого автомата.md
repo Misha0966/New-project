@@ -123,6 +123,22 @@ test_edge_cases()
 
 При использовании кода в исследованиях рекомендуется ссылаться на:
 
+**Figshare Версия:**
+
+```bibtex
+
+@article{Yushchenko2026,
+author = "Mikhail Yuryevich Yushchenko",
+title = "{Structural Numerical Symmetry Cellular Automaton ( SNS-CA )}",
+year = "2026",
+month = "8",
+url = "https://figshare.com/articles/preprint/Structural_Numerical_Symmetry_Cellular_Automaton_SNS-CA_/33235563",
+doi = "10.6084/m9.figshare.33235563.v1"
+}
+```
+
+**Zenodo / HAL Версия:**
+
 ```bibtex
 @misc{yushchenko_2026_21864928,
   author       = {Yushchenko, Mikhail Yuryevich},
@@ -136,9 +152,10 @@ test_edge_cases()
   url          = {https://doi.org/10.5281/zenodo.21864928},
 }
 ```
-И/или:
+
 
 ```bibtex
+
 @misc{yushchenko:hal-05715465,
   TITLE = {{Structural Numerical Symmetry Cellular Automaton (SNS-CA)}},
   AUTHOR = {Yushchenko, Mikhail Yuryevich},
@@ -150,18 +167,5 @@ test_edge_cases()
   KEYWORDS = {Post-Spatial Cellular Automata ; Unconventional Computing ; Arithmetic Dynamics ; Nonlinear Dynamics ; Emergence ; Digital Dynamics ; Number Theory ; Complex Systems ; Revolutionary Cellular Automata ; Paradigm Shift in Cellular Automata},
   HAL_ID = {hal-05715465},
   HAL_VERSION = {v1},
-}
-```
-Или:
-
-```bibtex
-
-@article{Yushchenko2026,
-author = "Mikhail Yuryevich Yushchenko",
-title = "{Structural Numerical Symmetry Cellular Automaton ( SNS-CA )}",
-year = "2026",
-month = "8",
-url = "https://figshare.com/articles/preprint/Structural_Numerical_Symmetry_Cellular_Automaton_SNS-CA_/33235563",
-doi = "10.6084/m9.figshare.33235563.v1"
 }
 ```
