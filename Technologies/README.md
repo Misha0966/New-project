@@ -109,6 +109,22 @@ This project is distributed under the Creative Commons Attribution 4.0 Internati
 
 When using this code in research, it is recommended to cite:
 
+**Figshare Version:**
+
+```bibtex
+
+@article{Yushchenko2026,
+author = "Mikhail Yuryevich Yushchenko",
+title = "{Structural Numerical Symmetry Cellular Automaton ( SNS-CA )}",
+year = "2026",
+month = "8",
+url = "https://figshare.com/articles/preprint/Structural_Numerical_Symmetry_Cellular_Automaton_SNS-CA_/33235563",
+doi = "10.6084/m9.figshare.33235563.v1"
+}
+```
+
+**Zenodo / HAL Version:**
+
 ```bibtex
 @misc{yushchenko_2026_21864928,
   author       = {Yushchenko, Mikhail Yuryevich},
@@ -123,7 +139,6 @@ When using this code in research, it is recommended to cite:
 }
 ```
 
-and:
 
 ```bibtex
 
@@ -138,20 +153,6 @@ and:
   KEYWORDS = {Post-Spatial Cellular Automata ; Unconventional Computing ; Arithmetic Dynamics ; Nonlinear Dynamics ; Emergence ; Digital Dynamics ; Number Theory ; Complex Systems ; Revolutionary Cellular Automata ; Paradigm Shift in Cellular Automata},
   HAL_ID = {hal-05715465},
   HAL_VERSION = {v1},
-}
-```
-
-or:
-
-```bibtex
-
-@article{Yushchenko2026,
-author = "Mikhail Yuryevich Yushchenko",
-title = "{Structural Numerical Symmetry Cellular Automaton ( SNS-CA )}",
-year = "2026",
-month = "8",
-url = "https://figshare.com/articles/preprint/Structural_Numerical_Symmetry_Cellular_Automaton_SNS-CA_/33235563",
-doi = "10.6084/m9.figshare.33235563.v1"
 }
 ```
 
