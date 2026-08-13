@@ -111,7 +111,7 @@ test_edge_cases()
 Данная работа полностью архивирована и доступна в следующих репозиториях:
 
 - **Zenodo** (с DOI для научного цитирования): [https://zenodo.org/](https://zenodo.org/records/21864928)
-- **Figshare** (с DOI для научного цитирования): [[https://zenodo.org/](https://doi.org/10.6084/m9.figshare.33235563))
+- **Figshare** (с DOI для научного цитирования):[https://doi.org/10.6084/m9.figshare.33235563](https://doi.org/10.6084/m9.figshare.33235563))
 - **Web Archive** (постоянный архив): [https://web.archive.org/](https://archive.org/details/structural-numerical-symmetry-cellular-automaton-sns-ca)
 - **GitHub** (исходный код): [https://github.com/Misha0966/New-project](https://github.com/Misha0966/New-project/blob/main/Technologies/SOURCE%20CODE%20(%20sns_ca%20).jl)
 
