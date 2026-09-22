@@ -1,2 +1,0 @@
-total_samples,valid_sns,π_classic,π_sns,error_classic,error_sns,sns_count_full,sns_count_both_ends,sns_count_end_only,sns_count_none
-10000,10000,3.134,3.134,0.007592653589793219,0.007592653589793219,9,9991,0,0
