@@ -27,7 +27,7 @@ return lpad(result, max(length(part), length(result)), '0') # Если резу�
 
 end
 
-# Проверка СЧС для одного числа
+# Проверка СЧС для одного числа с определением всех классов
 function check_full_match_for_one_number(N::BigInt, m::Integer, k::Integer)
 N_str = string(N)                         # Преобразуем N в строку
 parts = split_number_str(N_str, m)        # Разбиваем N на m частей
@@ -38,29 +38,54 @@ pq_str = join(pq_parts) # Объединяем умноженные части �
 
 nk_str = string(N * k) # Умножаем всё число целиком — это NK
 
-is_full_match = pq_str == nk_str # Удаляем ведущие нули из pq_str и nk_str для корректного сравнения (если нужно)
+# Проверяем совпадение границ
+first_match = !isempty(pq_str) && !isempty(nk_str) && first(pq_str) == first(nk_str) # Совпадает ли первая цифра
+last_match = !isempty(pq_str) && !isempty(nk_str) && last(pq_str) == last(nk_str) # Совпадает ли последняя цифра
+
+# Определяем класс по правилам СЧС
+is_F = pq_str == nk_str # Класс F: полное совпадение PQ и NK
+is_B = first_match && last_match && !is_F # Класс B: совпадают начало И конец, но не полное совпадение
+is_E = last_match && !first_match # Класс E: совпадает ТОЛЬКО конец
+is_S = first_match && !last_match # Класс S: совпадает ТОЛЬКО начало
+is_N = !first_match && !last_match # Класс N: нет совпадений ни начала, ни конца
 
 @printf("🔢 N = %s\n", N_str) # Выводим N
 @printf("📐 m = %d\n", m) # Выводим количество частей
 @printf("🧮 k = %d\n", k) # Выводим коэффициент умножения
 
-if is_full_match # Если совпадают:
-@printf("🛠 Разбиение:\n")
+@printf("🛠 Разбиение:\n") # Выводим заголовок для разбиения
 for (i, part) in enumerate(parts) # Перечисляем все части
-@printf("   Часть %d: \"%s\"\n", i, part)
+@printf("   Часть %d: \"%s\"\n", i, part) # Выводим каждую часть
 end
-@printf("➡️ Умноженные части:\n")
-for (i, part) in enumerate(pq_parts)  # Перечисляем умноженные части
-@printf("   Часть %d: \"%s\"\n", i, part)
-end
-@printf("📌 PQ = %s\n", pq_str)
-@printf("📌 NK = %s\n", nk_str)
-@printf("✅ Результат: Полное совпадение найдено!\n")
 
-filename = "full_match_N$(N_str[1:min(50, length(N_str))]...)_m$m.txt"  # Генерируем имя файла
+@printf("➡️ Умноженные части:\n") # Выводим заголовок для умноженных частей
+for (i, part) in enumerate(pq_parts)  # Перечисляем умноженные части
+@printf("   Часть %d: \"%s\"\n", i, part) # Выводим каждую умноженную часть
+end
+
+@printf("📌 PQ = %s\n", pq_str) # Выводим PQ
+@printf("📌 NK = %s\n", nk_str) # Выводим NK
+
+# Определяем имя класса для вывода и файла
+class_name = is_F ? "F" : is_B ? "B" : is_E ? "E" : is_S ? "S" : "N" # Выбираем класс по приоритету
+
+# Выводим результат в зависимости от класса
+if is_F
+@printf("✅ Класс F: Полное совпадение найдено!\n") # Полное совпадение
+elseif is_B
+@printf("✅ Класс B: Совпадение начала и конца найдено!\n") # Начало и конец
+elseif is_E
+@printf("✅ Класс E: Совпадение только конца найдено!\n") # Только конец
+elseif is_S
+@printf("✅ Класс S: Совпадение только начала найдено!\n") # Только начало
+elseif is_N
+@printf("❌ Класс N: Нет совпадений.\n") # Нет совпадений
+end
+
+filename = "class_$(class_name)_N$(N_str[1:min(50, length(N_str))]...)_m$m.txt"  # Генерируем имя файла с классом
 
 open(filename, "w") do io # Открываем файл на запись
-write(io, "📊 Сруктуральная числовая симметрия\n")
+write(io, "📊 Структуральная числовая симметрия\n")
 write(io, "=========================================\n")
 write(io, "🔢 N = $N_str\n")
 write(io, "📐 m = $m\n")
@@ -76,14 +101,12 @@ write(io, "   Часть $i: \"$part\", длина: $(length(part))\n")
 end
 write(io, "📌 PQ = $pq_str\n")
 write(io, "📌 NK = $nk_str\n")
-write(io, "✅ Результат: Полное совпадение найдено.\n")
+write(io, "-----------------------------------------\n")
+write(io, "✅ Класс: $class_name\n") # Записываем определённый класс
 write(io, "=========================================\n")
 end
 
-println("\n📄 Результаты сохранены в файл: $filename")
-else # Если нет совпадения:
-@printf("❌ Нет совпадений для данного разбиения.\n")
-end
+println("\n📄 Результаты сохранены в файл: $filename") # Сообщение о сохранении
 
 return ( # Возвращаем структуру с результатом
 N = N,
@@ -91,13 +114,13 @@ m = m,
 k = k,
 PQ = pq_str,
 NK = nk_str,
-result = is_full_match ? "Полное совпадение" : "Нет совпадения"
+class = class_name # Возвращаем имя класса вместо булева результата
     )
 end
 
 # Пользовательский раздел
-println("🔄 Вычисляем N = 99^99999...") # Пример: N = 99^99999 большое число
-N_bigint = big(99)^99999 # Можно заменить на big"99"^big"99999" для большего числа
+println("🔄 Вычисляем N = 9999^9999...") # Пример: N = 9999^9999 большое число
+N_bigint = big(9999)^9999 # Можно заменить на гораздо меньшие числа
 m = 2 # количество частей
 k = 3 # k — натуральное число
 
